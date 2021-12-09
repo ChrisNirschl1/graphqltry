@@ -1,68 +1,60 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Mental Health Tracker
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+Book Search using Appollo and Graphql-  You can log in and log out, search for books, save them to your profile, as well as delete them. 
+ [Link to deployed project]: https://evening-brushlands-42862.herokuapp.com/
 
-### `yarn start`
+![badge](https://img.shields.io/badge/license-MIT-green)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![image](https://user-images.githubusercontent.com/89895612/145359764-321294b6-c3d7-4ee2-85a0-137cc4baf7cb.png)
+![image](https://user-images.githubusercontent.com/89895612/145359937-9efb5dce-452c-4e61-942b-1db6237049f6.png)
+![image](https://user-images.githubusercontent.com/89895612/145360174-5b8f9741-4c0a-4a23-8fc2-2c3bb9d7d7b7.png)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/89895612/145360370-26146c0f-fb58-4861-9377-38dc3f5a292e.png)
+![image](https://user-images.githubusercontent.com/89895612/145360418-1c918a6e-4155-4eb0-911f-9a8518cb0bd3.png)
 
-### `yarn test`
+## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Questions](#questions)
+  * [License](#license)
+    
+    
+## Installation
+    
+  _Follow these steps to install this application:_
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  None required.
+      
+## Usage
 
-### `yarn build`
+  _Instructions for use:_
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  Navigate to the deployed URL, and make an account.  From your profile, you can fill out new diary cards, or view past.  Create a healthcare provider account instead if you wish to manage patients.  You can add patients via email on your profile.
+  
+  
+        
+  [Link to deployed project]: https://evening-brushlands-42862.herokuapp.com/
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Technologies Used
+  [Chart JS](https://www.chartjs.org/)
+  [HTML2PDF](https://github.com/eKoopmans/html2pdf.js)
+## Questions
+      
+  If you have any questions, please reach out via Github or my email.
+  
+  _Contact Info:_
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  GitHub: 
+          [Christian Nirschl](https://github.com/ChrisNirschl1)
 
-### `yarn eject`
+  Email:
+         [Christian Nirschl](mailto:christiannirschl6@gmail.com)
+    
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+      
+  _This application has the MIT License._
+      
+  For more information please view the [license description](https://choosealicense.com/licenses/MIT).
