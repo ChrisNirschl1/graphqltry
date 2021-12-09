@@ -1,4 +1,4 @@
-# Mental Health Tracker
+# Book Search Homework
 
 ## Description
 
@@ -13,6 +13,8 @@ Book Search using Appollo and Graphql-  You can log in and log out, search for b
 
 ![image](https://user-images.githubusercontent.com/89895612/145360370-26146c0f-fb58-4861-9377-38dc3f5a292e.png)
 ![image](https://user-images.githubusercontent.com/89895612/145360418-1c918a6e-4155-4eb0-911f-9a8518cb0bd3.png)
+![image](https://user-images.githubusercontent.com/89895612/145361823-75393a2c-474d-472e-a30d-b86eabdfe47d.png)
+
 
 ## Table of Contents
   * [Installation](#installation)
