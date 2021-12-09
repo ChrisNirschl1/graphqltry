@@ -33,7 +33,7 @@ Book Search using Appollo and Graphql-  You can log in and log out, search for b
 
   _Instructions for use:_
 
-  Navigate to the deployed URL, and make an account.  From your profile, you can fill out new diary cards, or view past.  Create a healthcare provider account instead if you wish to manage patients.  You can add patients via email on your profile.
+  Navigate to the deployed URL, and make an account.  Search for books and save your favorites!
   
   
         
