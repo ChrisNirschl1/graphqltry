@@ -38,8 +38,7 @@ Book Search using Appollo and Graphql-  You can log in and log out, search for b
   [Link to deployed project]: https://evening-brushlands-42862.herokuapp.com/
 
 ## Technologies Used
-  [Chart JS](https://www.chartjs.org/)
-  [HTML2PDF](https://github.com/eKoopmans/html2pdf.js)
+  Graphql abd Appollo 
 ## Questions
       
   If you have any questions, please reach out via Github or my email.
